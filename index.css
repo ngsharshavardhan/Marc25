@@ -69,3 +69,7 @@ h1 {
   border-top: 1px solid #ddd;
   text-align: center;
 }
+footer {
+  background: hsl(var(--gray-9-hsl));
+  color: hsl(var(--gray-0-hsl));
+}
